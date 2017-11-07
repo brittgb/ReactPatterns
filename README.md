@@ -1,4 +1,5 @@
 # ReactPatterns
+This is Britt's fork of the ReactPatterns repository. 
 
 A collection of simple react projects providing reusable components, startup and test examples. Its my react playground.
 I am using webpack 2 and babel for the build tool chain.
